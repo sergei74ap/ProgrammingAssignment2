@@ -1,3 +1,7 @@
+The Assignment #2 has been completed.
+Sergei74ap.
+2020-10-01.
+
 ### Introduction
 
 This second programming assignment will require you to write an R
